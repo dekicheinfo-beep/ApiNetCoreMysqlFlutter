@@ -17,7 +17,7 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 
-builder.Services.AddControllers();  
+builder.Services.AddControllers();
 
 //builder.Services.AddDbContext<AppDbContext>(options =>
 //    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
@@ -31,11 +31,22 @@ builder.Services.AddControllers();
 //        mySqlOptions => mySqlOptions.EnableRetryOnFailure()
 //    ));
 
+//builder.Services.AddDbContext<AppDbContext>(options =>
+//    options.UseMySql(
+//        builder.Configuration.GetConnectionString("DefaultConnection"),
+//        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")),
+//        mySqlOptions => mySqlOptions.EnableRetryOnFailure()
+//    )
+//);
+
+var connectionString = "Server=metro.proxy.rlwy.net;Port=39390;Database=railway;Uid=root;Pwd=HtNaPJHWGYDxjJPbBxVYMbPELReecJbr;SslMode=None;";
+
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseMySql(
-        builder.Configuration.GetConnectionString("DefaultConnection"),
-        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")),
-        mySqlOptions => mySqlOptions.EnableRetryOnFailure()
+    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString),
+        mySqlOptions => mySqlOptions.EnableRetryOnFailure(
+            maxRetryCount: 5,
+            maxRetryDelay: TimeSpan.FromSeconds(10),
+            errorNumbersToAdd: null)
     )
 );
 
