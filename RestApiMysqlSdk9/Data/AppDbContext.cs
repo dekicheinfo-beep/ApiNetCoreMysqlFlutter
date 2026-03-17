@@ -71,8 +71,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("agence")
-                .HasCharSet("latin1")
-                .UseCollation("latin1_swedish_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -80,65 +80,65 @@ public partial class AppDbContext : DbContext
             entity.Property(e => e.Adresse)
                 .HasMaxLength(200)
                 .HasColumnName("adresse")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Aimposition)
                 .HasMaxLength(100)
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Banque)
                 .HasMaxLength(255)
                 .HasColumnName("banque")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Email)
                 .HasMaxLength(100)
                 .HasColumnName("email")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Fimposition)
                 .HasMaxLength(100)
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Horaire)
                 .HasMaxLength(100)
                 .HasColumnName("horaire")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Logo)
                 .HasMaxLength(200)
                 .HasColumnName("logo")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Nom)
                 .HasMaxLength(100)
                 .HasColumnName("nom")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Presentation)
                 .HasColumnType("text")
                 .HasColumnName("presentation")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Proprietaire)
                 .HasMaxLength(255)
                 .HasColumnName("proprietaire")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Rcommerce)
                 .HasMaxLength(100)
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Rib)
                 .HasMaxLength(255)
                 .HasColumnName("rib")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Telephone)
                 .HasMaxLength(100)
                 .HasColumnName("telephone")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
         });
 
         modelBuilder.Entity<EntClient>(entity =>
@@ -147,8 +147,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_client")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -203,8 +203,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_condition")
-                .HasCharSet("latin1")
-                .UseCollation("latin1_swedish_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -212,8 +212,8 @@ public partial class AppDbContext : DbContext
             entity.Property(e => e.Cond)
                 .HasColumnType("text")
                 .HasColumnName("cond")
-                .UseCollation("utf8_general_ci")
-                .HasCharSet("utf8");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Type)
                 .HasMaxLength(10)
                 .HasColumnName("type");
@@ -254,8 +254,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_facture")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -289,8 +289,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_ligne_proforma")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -324,8 +324,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_ligne_travail")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -359,8 +359,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_location")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -421,8 +421,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_marque")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.IdMarque)
                 .HasColumnType("int(9)")
@@ -438,8 +438,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_modele")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.IdModele)
                 .HasColumnType("int(11)")
@@ -458,8 +458,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_proforma")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -499,8 +499,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_reservation")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -543,8 +543,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_travail")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -584,8 +584,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_user")
-                .HasCharSet("latin1")
-                .UseCollation("latin1_swedish_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.HasIndex(e => e.User, "user").IsUnique();
 
@@ -609,8 +609,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_user2")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.User).HasMaxLength(50);
             entity.Property(e => e.Nom).HasMaxLength(50);
@@ -625,8 +625,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_vehicule")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -639,8 +639,8 @@ public partial class AppDbContext : DbContext
                 .HasMaxLength(100)
                 .HasColumnName("AGENCE_CONTROL");
             entity.Property(e => e.Apercu)
-                .UseCollation("latin1_swedish_ci")
-                .HasCharSet("latin1");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Chassis).HasMaxLength(100);
             entity.Property(e => e.Couleur).HasMaxLength(100);
             entity.Property(e => e.DateVidange)
@@ -654,8 +654,8 @@ public partial class AppDbContext : DbContext
                 .HasColumnName("DEB_CONTROL");
             entity.Property(e => e.Energie)
                 .HasMaxLength(100)
-                .UseCollation("latin1_swedish_ci")
-                .HasCharSet("latin1");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Etat).HasMaxLength(255);
             entity.Property(e => e.FinAssurance)
                 .HasMaxLength(10)
@@ -679,24 +679,24 @@ public partial class AppDbContext : DbContext
             entity.Property(e => e.Transmission).HasMaxLength(100);
             entity.Property(e => e.Vimage1)
                 .HasMaxLength(120)
-                .UseCollation("latin1_swedish_ci")
-                .HasCharSet("latin1");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Vimage2)
                 .HasMaxLength(120)
-                .UseCollation("latin1_swedish_ci")
-                .HasCharSet("latin1");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Vimage3)
                 .HasMaxLength(120)
-                .UseCollation("latin1_swedish_ci")
-                .HasCharSet("latin1");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Vimage4)
                 .HasMaxLength(120)
-                .UseCollation("latin1_swedish_ci")
-                .HasCharSet("latin1");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
             entity.Property(e => e.Vimage5)
                 .HasMaxLength(120)
-                .UseCollation("latin1_swedish_ci")
-                .HasCharSet("latin1");
+                .UseCollation("utf8mb4_general_ci")
+                .HasCharSet("utf8mb4");
         });
 
         modelBuilder.Entity<EntVehicule2>(entity =>
@@ -705,8 +705,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_vehicule2")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -719,8 +719,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("ent_vehicule_image")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id)
                 .HasColumnType("int(11)")
@@ -739,8 +739,8 @@ public partial class AppDbContext : DbContext
 
             entity
                 .ToTable("products")
-                .HasCharSet("utf8")
-                .UseCollation("utf8_general_ci");
+                .HasCharSet("utf8mb4")
+                .UseCollation("utf8mb4_general_ci");
 
             entity.Property(e => e.Id).HasColumnType("int(11)");
             entity.Property(e => e.Image)

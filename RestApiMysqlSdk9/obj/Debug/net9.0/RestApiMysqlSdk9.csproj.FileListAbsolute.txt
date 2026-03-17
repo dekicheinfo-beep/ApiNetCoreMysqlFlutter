@@ -1460,3 +1460,9 @@ G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\swae.build.ex.cache
 G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiM.75C0B7F8.Up2Date
 G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.genruntimeconfig.cache
 G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\ref\RestApiMysqlSdk9.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\out\web.config
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\out\appsettings.Development.json
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\out\appsettings.json
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\out\RestApiMysqlSdk9.deps.json
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\out\RestApiMysqlSdk9.runtimeconfig.json
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\out\RestApiMysqlSdk9.staticwebassets.endpoints.json

@@ -19,10 +19,10 @@ builder.Services.AddSwaggerGen(c =>
 
 builder.Services.AddControllers();  
 
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
-        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")))
-);
+//builder.Services.AddDbContext<AppDbContext>(options =>
+//    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
+//        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")))
+//);
 
 //builder.Services.AddDbContext<AppDbContext>(options =>
 //    options.UseMySql(
@@ -30,6 +30,14 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 //        new MySqlServerVersion(new Version(8, 0, 21)),
 //        mySqlOptions => mySqlOptions.EnableRetryOnFailure()
 //    ));
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseMySql(
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")),
+        mySqlOptions => mySqlOptions.EnableRetryOnFailure()
+    )
+);
 
 
 builder.Services.AddCors(options =>
