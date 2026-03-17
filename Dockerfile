@@ -6,7 +6,7 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src
-COPY ["RestApiMysqlSdk9/BackEndProject.csproj", "RestApiMysqlSdk9/"]
+COPY ["RestApiMysqlSdk9/RestApiMysqlSdk9.csproj", "RestApiMysqlSdk9/"]
 RUN dotnet restore "RestApiMysqlSdk9/RestApiMysqlSdk9.csproj"
 COPY . .
 WORKDIR "/src/RestApiMysqlSdk9"
