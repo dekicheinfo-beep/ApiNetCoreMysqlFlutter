@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\wwwroot\\uploads\\469aa121-cdd6-4806-b958-ce158845a583.jpg",
+      "PackagePath": "staticwebassets\\uploads\\469aa121-cdd6-4806-b958-ce158845a583.jpg"
+    },
+    {
+      "Id": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\wwwroot\\uploads\\82ae0d64-8eee-46dc-ab29-33efb869c780.jpg",
+      "PackagePath": "staticwebassets\\uploads\\82ae0d64-8eee-46dc-ab29-33efb869c780.jpg"
+    },
+    {
+      "Id": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\wwwroot\\uploads\\9942f761-3669-4be7-86e3-8b70d323d852.PNG",
+      "PackagePath": "staticwebassets\\uploads\\9942f761-3669-4be7-86e3-8b70d323d852.PNG"
+    },
+    {
+      "Id": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\wwwroot\\uploads\\a44b4596-301e-4331-be11-d46e82d3bc57.PNG",
+      "PackagePath": "staticwebassets\\uploads\\a44b4596-301e-4331-be11-d46e82d3bc57.PNG"
+    },
+    {
+      "Id": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\wwwroot\\uploads\\ad6c2eb0-cc13-4a2e-bae6-b5effc12a161.PNG",
+      "PackagePath": "staticwebassets\\uploads\\ad6c2eb0-cc13-4a2e-bae6-b5effc12a161.PNG"
+    },
+    {
+      "Id": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\wwwroot\\uploads\\b838cd57-a09b-4e54-a531-bfda8f811e39.PNG",
+      "PackagePath": "staticwebassets\\uploads\\b838cd57-a09b-4e54-a531-bfda8f811e39.PNG"
+    },
+    {
+      "Id": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\wwwroot\\uploads\\cceac4bc-b487-41d9-9bc4-de7cb37c6d5e.PNG",
+      "PackagePath": "staticwebassets\\uploads\\cceac4bc-b487-41d9-9bc4-de7cb37c6d5e.PNG"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.RestApiMysqlSdk9.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.RestApiMysqlSdk9.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.RestApiMysqlSdk9.props",
+      "PackagePath": "build\\RestApiMysqlSdk9.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.RestApiMysqlSdk9.props",
+      "PackagePath": "buildMultiTargeting\\RestApiMysqlSdk9.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.RestApiMysqlSdk9.props",
+      "PackagePath": "buildTransitive\\RestApiMysqlSdk9.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

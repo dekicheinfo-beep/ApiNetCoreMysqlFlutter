@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\restapimysqlsdk9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:restapimysqlsdk9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\controllers\\entuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:controllers\\entuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\controllers\\productscontroller0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:controllers\\productscontroller0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\models\\entuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:models\\entuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\modelsbase\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:modelsbase\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\modelsbase\\ent_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:modelsbase\\ent_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\modelsbase\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:modelsbase\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\modelsbase\\dbeducation35313137b935context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:modelsbase\\dbeducation35313137b935context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|c:\\projet developpement\\restapimysqlsdk9\\backend\\restapimysqlsdk9.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:restapimysqlsdk9.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Models\\Photo.cs",
+              "RelativeDocumentMoniker": "Models\\Photo.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Models\\Photo.cs",
+              "RelativeToolTip": "Models\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:48:23.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:05:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestApiMysqlSdk9.csproj",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\RestApiMysqlSdk9.csproj",
+              "RelativeDocumentMoniker": "RestApiMysqlSdk9.csproj",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\RestApiMysqlSdk9.csproj",
+              "RelativeToolTip": "RestApiMysqlSdk9.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T11:03:21.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T13:40:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:24:52.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntUsersController.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Controllers\\EntUsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EntUsersController.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Controllers\\EntUsersController.cs",
+              "RelativeToolTip": "Controllers\\EntUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:10:34.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhotosController.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Controllers\\PhotosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PhotosController.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Controllers\\PhotosController.cs",
+              "RelativeToolTip": "Controllers\\PhotosController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAlwIQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:49:36.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:17:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDto.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Models\\ProductDto.cs",
+              "RelativeToolTip": "Models\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:31:09.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController0.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Controllers\\ProductsController0.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController0.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Controllers\\ProductsController0.cs",
+              "RelativeToolTip": "Controllers\\ProductsController0.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T20:55:49.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntUser.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Models\\EntUser.cs",
+              "RelativeDocumentMoniker": "Models\\EntUser.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\Models\\EntUser.cs",
+              "RelativeToolTip": "Models\\EntUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:16:58.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\ModelsBase\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ModelsBase\\AppDbContext.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\ModelsBase\\AppDbContext.cs",
+              "RelativeToolTip": "ModelsBase\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T20:49:43.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ent_user.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\ModelsBase\\Ent_user.cs",
+              "RelativeDocumentMoniker": "ModelsBase\\Ent_user.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\ModelsBase\\Ent_user.cs",
+              "RelativeToolTip": "ModelsBase\\Ent_user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:01:54.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RestApiMysqlSdk9.http",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\RestApiMysqlSdk9.http",
+              "RelativeDocumentMoniker": "RestApiMysqlSdk9.http",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\RestApiMysqlSdk9.http",
+              "RelativeToolTip": "RestApiMysqlSdk9.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-22T19:46:57.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\ModelsBase\\Product.cs",
+              "RelativeDocumentMoniker": "ModelsBase\\Product.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\ModelsBase\\Product.cs",
+              "RelativeToolTip": "ModelsBase\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T20:48:49.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbEducation35313137b935Context.cs",
+              "DocumentMoniker": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\ModelsBase\\DbEducation35313137b935Context.cs",
+              "RelativeDocumentMoniker": "ModelsBase\\DbEducation35313137b935Context.cs",
+              "ToolTip": "C:\\Projet developpement\\RestApiMysqlSdk9\\backend\\ModelsBase\\DbEducation35313137b935Context.cs",
+              "RelativeToolTip": "ModelsBase\\DbEducation35313137b935Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:59:24.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

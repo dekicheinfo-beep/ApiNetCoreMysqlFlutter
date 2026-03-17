@@ -1,0 +1,1462 @@
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\appsettings.Development.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\appsettings.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\RestApiMysqlSdk9.staticwebassets.endpoints.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\RestApiMysqlSdk9.exe
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\RestApiMysqlSdk9.deps.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\RestApiMysqlSdk9.runtimeconfig.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\RestApiMysqlSdk9.pdb
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Humanizer.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\MySqlConnector.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\System.CodeDom.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.AssemblyReference.cache
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiMysqlSdk9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfoInputs.cache
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfo.cs
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.CoreCompileInputs.cache
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\scopedcss\bundle\RestApiMysqlSdk9.styles.css
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\staticwebassets.build.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\staticwebassets.development.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiM.75C0B7F8.Up2Date
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\refint\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiMysqlSdk9.pdb
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\RestApiMysqlSdk9.genruntimeconfig.cache
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\obj\Debug\net9.0\ref\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\NuGet.Common.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet web mobile Mysql\Backend\RestApiMysqlSdk9\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\appsettings.Development.json
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\appsettings.json
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.staticwebassets.endpoints.json
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.exe
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.deps.json
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.runtimeconfig.json
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.pdb
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Humanizer.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\MySqlConnector.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Common.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.CodeDom.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.AssemblyReference.cache
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfoInputs.cache
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfo.cs
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.CoreCompileInputs.cache
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cs
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cache
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\scopedcss\bundle\RestApiMysqlSdk9.styles.css
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets\msbuild.RestApiMysqlSdk9.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets\msbuild.RestApiMysqlSdk9.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets\msbuild.build.RestApiMysqlSdk9.props
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RestApiMysqlSdk9.props
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RestApiMysqlSdk9.props
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiM.75C0B7F8.Up2Date
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\refint\RestApiMysqlSdk9.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.pdb
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.genruntimeconfig.cache
+C:\Projet developpement\RestApiMysqlSdk9\backend\obj\Debug\net9.0\ref\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\appsettings.Development.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.staticwebassets.endpoints.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\appsettings.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.exe
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.deps.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.runtimeconfig.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.pdb
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Humanizer.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\MySqlConnector.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Common.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.CodeDom.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.AssemblyReference.cache
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfoInputs.cache
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfo.cs
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.CoreCompileInputs.cache
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\scopedcss\bundle\RestApiMysqlSdk9.styles.css
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets.build.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets.development.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiM.75C0B7F8.Up2Date
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\refint\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.pdb
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\RestApiMysqlSdk9.genruntimeconfig.cache
+D:\Projet Developpement\Projet Angular\RestApiMysqlSdk9\backend\obj\Debug\net9.0\ref\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\appsettings.Development.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\appsettings.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\RestApiMysqlSdk9.staticwebassets.endpoints.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\RestApiMysqlSdk9.exe
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\RestApiMysqlSdk9.deps.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\RestApiMysqlSdk9.runtimeconfig.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\RestApiMysqlSdk9.pdb
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Humanizer.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\MySqlConnector.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\NuGet.Common.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\System.CodeDom.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.AssemblyReference.cache
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiMysqlSdk9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfoInputs.cache
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfo.cs
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.CoreCompileInputs.cache
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\scopedcss\bundle\RestApiMysqlSdk9.styles.css
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\staticwebassets.build.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\staticwebassets.development.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiM.75C0B7F8.Up2Date
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\refint\RestApiMysqlSdk9.dll
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiMysqlSdk9.pdb
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\RestApiMysqlSdk9.genruntimeconfig.cache
+D:\Projet Developpement\Projet Angular\Projet flutter Mysql\backend\obj\Debug\net9.0\ref\RestApiMysqlSdk9.dll
+C:\Projet developpement\RestApiMysqlSdk9\backend\bin\Debug\net9.0\RestApiMysqlSdk9.staticwebassets.runtime.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\appsettings.Development.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\appsettings.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.staticwebassets.runtime.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.staticwebassets.endpoints.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.exe
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.deps.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.runtimeconfig.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.pdb
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Humanizer.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.Build.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.OpenApi.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Mono.TextTemplating.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\MySqlConnector.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Common.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Configuration.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Frameworks.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.LibraryModel.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Packaging.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.ProjectModel.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Protocol.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Versioning.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\System.CodeDom.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\System.Composition.Convention.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\System.Composition.Hosting.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\System.Composition.Runtime.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\System.Composition.TypedParts.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\af\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ar\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\az\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\bg\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\cs\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\da\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\de\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\el\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\es\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fa\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fr\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\he\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\hr\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\hu\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\hy\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\id\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\is\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\it\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ja\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ku\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\lv\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\mt\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\nb\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\nl\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pl\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pt\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ro\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ru\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\sk\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\sl\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\sr\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\sv\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\tr\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\uk\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\vi\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.AssemblyReference.cache
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfoInputs.cache
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfo.cs
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.CoreCompileInputs.cache
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cs
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cache
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\scopedcss\bundle\RestApiMysqlSdk9.styles.css
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\staticwebassets.build.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\staticwebassets.development.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\swae.build.ex.cache
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiM.75C0B7F8.Up2Date
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\refint\RestApiMysqlSdk9.dll
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.pdb
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.genruntimeconfig.cache
+G:\Projet Developpement\Projet Angular\Projet flutter Mysql 2026\backend api asp mysql 2026\obj\Debug\net9.0\ref\RestApiMysqlSdk9.dll
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.AssemblyReference.cache
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfoInputs.cache
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.AssemblyInfo.cs
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.csproj.CoreCompileInputs.cache
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cs
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.MvcApplicationPartsAssemblyInfo.cache
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.dll
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\refint\RestApiMysqlSdk9.dll
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.pdb
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\appsettings.Development.json
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.staticwebassets.endpoints.json
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\appsettings.json
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.staticwebassets.runtime.json
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.exe
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.deps.json
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.runtimeconfig.json
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\RestApiMysqlSdk9.pdb
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Humanizer.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.Build.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.OpenApi.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Mono.TextTemplating.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\MySqlConnector.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Newtonsoft.Json.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Common.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Configuration.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Frameworks.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.LibraryModel.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Packaging.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.ProjectModel.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Protocol.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\NuGet.Versioning.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\System.CodeDom.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\System.Composition.Convention.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\System.Composition.Hosting.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\System.Composition.Runtime.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\System.Composition.TypedParts.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\af\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ar\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\az\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\bg\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\cs\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\da\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\de\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\el\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\es\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fa\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fr\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\he\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\hr\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\hu\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\hy\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\id\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\is\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\it\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ja\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ku\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\lv\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\mt\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\nb\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\nl\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pl\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pt\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ro\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ru\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\sk\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\sl\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\sr\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\sv\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\tr\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\uk\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\vi\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\scopedcss\bundle\RestApiMysqlSdk9.styles.css
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\staticwebassets.build.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\staticwebassets.development.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\swae.build.ex.cache
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiM.75C0B7F8.Up2Date
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\RestApiMysqlSdk9.genruntimeconfig.cache
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Debug\net9.0\ref\RestApiMysqlSdk9.dll
