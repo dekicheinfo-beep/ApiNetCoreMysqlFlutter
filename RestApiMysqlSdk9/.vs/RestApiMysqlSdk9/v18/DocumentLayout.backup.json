@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "G:\\ProjetFlutter\\backend api asp mysql 2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\controllers\\contratscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:controllers\\contratscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\controllers\\contratscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:controllers\\contratscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -140,22 +140,23 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T10:32:41.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswB4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBwAAACLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-26T10:32:41.166Z"
+              "WhenOpened": "2026-01-26T10:32:41.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -171,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ContratsController.cs",
               "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026\\Controllers\\ContratsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContratsController.cs",

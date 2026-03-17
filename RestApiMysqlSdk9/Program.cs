@@ -16,13 +16,27 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-
-builder.Services.AddControllers();
-
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
-        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")))
-);
+{
+    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+    options.UseMySql(
+        connectionString,
+        ServerVersion.AutoDetect(connectionString),
+        mySqlOptions =>
+        {
+            mySqlOptions.EnableRetryOnFailure(0);
+        }
+    );
+});
+
+
+//builder.Services.AddControllers();
+
+//builder.Services.AddDbContext<AppDbContext>(options =>
+//    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
+//        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")))
+//);
 
 //builder.Services.AddDbContext<AppDbContext>(options =>
 //    options.UseMySql(
