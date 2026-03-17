@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using MySqlConnector;
 using RestApiMysqlSdk9.Data;
 using RestApiMysqlSdk9.Models;
 
@@ -12,9 +13,29 @@ namespace RestApiMysqlSdk9.Controllers
     {
         private readonly AppDbContext _context;
 
-        public ContratsController(AppDbContext context)
+        private readonly IConfiguration _config;
+
+        public ContratsController(AppDbContext context, IConfiguration config)
         {
             _context = context;
+            _config = config;
+        }
+
+        [HttpGet("connect")]
+        public async Task<IActionResult> TestConnection()
+        {
+            var connStr = _config.GetConnectionString("DefaultConnection");
+
+            try
+            {
+                await using var conn = new MySqlConnection(connStr);
+                await conn.OpenAsync();
+                return Ok("✅ Connexion réussie !");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"❌ Connexion échouée : {ex.Message}");
+            }
         }
 
         [HttpGet("testdb")]
@@ -30,6 +51,8 @@ namespace RestApiMysqlSdk9.Controllers
                 return Ok(ex.Message);
             }
         }
+
+        
 
         // GET: api/Photos
         [HttpGet]

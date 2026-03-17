@@ -37,6 +37,16 @@
   },
   {
     "ContainingType": "RestApiMysqlSdk9.Controllers.ContratsController",
+    "Method": "TestConnection",
+    "RelativePath": "api/Contrats/connect",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestApiMysqlSdk9.Controllers.ContratsController",
     "Method": "TestDb",
     "RelativePath": "api/Contrats/testdb",
     "HttpMethod": "GET",

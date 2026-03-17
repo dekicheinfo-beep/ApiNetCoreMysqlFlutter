@@ -6,6 +6,18 @@
     "version": "v1"
   },
   "paths": {
+    "/api/Contrats/connect": {
+      "get": {
+        "tags": [
+          "Contrats"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Contrats/testdb": {
       "get": {
         "tags": [
