@@ -10,7 +10,7 @@ using RestApiMysqlSdk9.Data;
 
 namespace RestApiMysqlSdk9.Migrations
 {
-    [DbContext(typeof(AppDbContext1))]
+    [DbContext(typeof(AppDbContext))]
     [Migration("20260317125738_Init")]
     partial class Init
     {
