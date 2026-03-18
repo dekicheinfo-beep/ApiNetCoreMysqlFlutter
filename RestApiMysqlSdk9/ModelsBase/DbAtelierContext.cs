@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql.Scaffolding.Internal;
-using RestApiMysqlSdk9.Models;
 
-namespace RestApiMysqlSdk9.Data;
+namespace RestApiMysqlSdk9.ModelsBase;
 
 public partial class AppDbContext : DbContext
 {
@@ -19,7 +18,7 @@ public partial class AppDbContext : DbContext
 
     public virtual DbSet<Agence> Agences { get; set; }
 
-    //public virtual DbSet<Efmigrationshistory> Efmigrationshistories { get; set; }
+    public virtual DbSet<Efmigrationshistory> Efmigrationshistories { get; set; }
 
     public virtual DbSet<EntClient> EntClients { get; set; }
 
@@ -143,15 +142,15 @@ public partial class AppDbContext : DbContext
                 .HasCharSet("utf8");
         });
 
-        //modelBuilder.Entity<Efmigrationshistory>(entity =>
-        //{
-        //    entity.HasKey(e => e.MigrationId).HasName("PRIMARY");
+        modelBuilder.Entity<Efmigrationshistory>(entity =>
+        {
+            entity.HasKey(e => e.MigrationId).HasName("PRIMARY");
 
-        //    entity.ToTable("__efmigrationshistory");
+            entity.ToTable("__efmigrationshistory");
 
-        //    entity.Property(e => e.MigrationId).HasMaxLength(150);
-        //    entity.Property(e => e.ProductVersion).HasMaxLength(32);
-        //});
+            entity.Property(e => e.MigrationId).HasMaxLength(150);
+            entity.Property(e => e.ProductVersion).HasMaxLength(32);
+        });
 
         modelBuilder.Entity<EntClient>(entity =>
         {

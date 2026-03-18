@@ -11,11 +11,11 @@ namespace RestApiMysqlSdk9.Controllers
     [ApiController]
     public class ContratsController : ControllerBase
     {
-        private readonly AppDbContext _context;
+        private readonly AppDbContext1 _context;
 
         private readonly IConfiguration _config;
 
-        public ContratsController(AppDbContext context, IConfiguration config)
+        public ContratsController(AppDbContext1 context, IConfiguration config)
         {
             _context = context;
             _config = config;

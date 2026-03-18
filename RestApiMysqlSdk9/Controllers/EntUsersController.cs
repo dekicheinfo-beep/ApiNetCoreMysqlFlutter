@@ -15,9 +15,9 @@ namespace RestApiMysqlSdk9.Controllers
     [ApiController]
     public class EntUsersController : ControllerBase
     {
-        private readonly AppDbContext _context;
+        private readonly AppDbContext1 _context;
 
-        public EntUsersController(AppDbContext context)
+        public EntUsersController(AppDbContext1 context)
         {
             _context = context;
         }

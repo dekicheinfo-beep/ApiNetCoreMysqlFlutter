@@ -4,6 +4,7 @@ using RestApiMysqlSdk9.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddAuthorization();
 // Ajouter Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -16,7 +17,7 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-builder.Services.AddDbContext<AppDbContext>(options =>
+builder.Services.AddDbContext<AppDbContext1>(options =>
 {
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
@@ -31,7 +32,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 
-//builder.Services.AddControllers();
+builder.Services.AddControllers();
 
 //builder.Services.AddDbContext<AppDbContext>(options =>
 //    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),

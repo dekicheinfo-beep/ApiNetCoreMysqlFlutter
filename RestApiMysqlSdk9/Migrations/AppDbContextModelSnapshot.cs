@@ -9,7 +9,7 @@ using RestApiMysqlSdk9.Data;
 
 namespace RestApiMysqlSdk9.Migrations
 {
-    [DbContext(typeof(AppDbContext))]
+    [DbContext(typeof(AppDbContext1))]
     partial class AppDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

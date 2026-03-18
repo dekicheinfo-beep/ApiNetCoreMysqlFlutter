@@ -14,11 +14,11 @@ namespace RestApiMysqlSdk9.Controllers
     [ApiController]
     public class PhotosController : ControllerBase
     {
-        private readonly AppDbContext _context;
+        private readonly AppDbContext1 _context;
         private readonly IWebHostEnvironment _env;
-        private readonly AppDbContext _db;
+        private readonly AppDbContext1 _db;
 
-        public PhotosController(AppDbContext context, IWebHostEnvironment env)
+        public PhotosController(AppDbContext1 context, IWebHostEnvironment env)
         {
             _context = context;
             _env = env;

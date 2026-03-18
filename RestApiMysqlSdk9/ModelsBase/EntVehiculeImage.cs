@@ -3,13 +3,11 @@ using System.Collections.Generic;
 
 namespace RestApiMysqlSdk9.ModelsBase;
 
-public partial class Product
+public partial class EntVehiculeImage
 {
     public int Id { get; set; }
 
-    public string Name { get; set; } = null!;
-
-    public double Price { get; set; }
+    public int IdVehicule { get; set; }
 
     public string Image { get; set; } = null!;
 }
