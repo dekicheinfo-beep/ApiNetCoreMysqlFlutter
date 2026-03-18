@@ -17,6 +17,8 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+builder.Services.AddControllers();
+
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -39,7 +41,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 
-builder.Services.AddControllers();
+
+
 
 //builder.Services.AddDbContext<AppDbContext>(options =>
 //    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),

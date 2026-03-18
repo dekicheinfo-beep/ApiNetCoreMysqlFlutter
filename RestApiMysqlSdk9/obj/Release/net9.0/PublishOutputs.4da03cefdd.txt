@@ -1,6 +1,12 @@
 G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\RestApiMysqlSdk9.exe
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\out\web.config
 G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
 G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\appsettings.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\out\appsettings.Development.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\out\appsettings.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\out\RestApiMysqlSdk9.deps.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\out\RestApiMysqlSdk9.runtimeconfig.json
+G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\out\RestApiMysqlSdk9.staticwebassets.endpoints.json
 G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\RestApiMysqlSdk9.dll
 G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\RestApiMysqlSdk9.runtimeconfig.json
 G:\ProjetFlutter\backend api asp mysql 2026\obj\Release\net9.0\PubTmp\Out\RestApiMysqlSdk9.pdb
