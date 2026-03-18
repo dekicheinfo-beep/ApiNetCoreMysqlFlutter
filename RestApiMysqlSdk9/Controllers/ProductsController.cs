@@ -15,9 +15,9 @@ namespace RestApiMysqlSdk9.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        private readonly AppDbContext1 _context;
+        private readonly AppDbContext _context;
         private readonly IWebHostEnvironment _env;
-        public ProductsController(AppDbContext1 context, IWebHostEnvironment env)
+        public ProductsController(AppDbContext context, IWebHostEnvironment env)
         {
             _context = context;
             _env = env;
