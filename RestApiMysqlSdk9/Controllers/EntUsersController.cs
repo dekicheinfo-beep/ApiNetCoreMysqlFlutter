@@ -30,7 +30,9 @@ namespace RestApiMysqlSdk9.Controllers
         }
 
         // GET: api/EntUsers/5
-        [HttpGet("{user},{passe}")]
+        //[HttpGet("{user},{passe}")]
+        [HttpPost("GetEntUser")]
+
         public async Task<ActionResult<EntUser>> GetEntUser(string user,string passe)
         {
             var entUser = await _context.EntUsers

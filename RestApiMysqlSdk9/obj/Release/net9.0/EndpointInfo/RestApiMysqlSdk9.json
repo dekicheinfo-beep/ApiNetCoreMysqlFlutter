@@ -175,24 +175,22 @@
         }
       }
     },
-    "/api/EntUsers/{user},{passe}": {
-      "get": {
+    "/api/EntUsers/GetEntUser": {
+      "post": {
         "tags": [
           "EntUsers"
         ],
         "parameters": [
           {
             "name": "user",
-            "in": "path",
-            "required": true,
+            "in": "query",
             "schema": {
               "type": "string"
             }
           },
           {
             "name": "passe",
-            "in": "path",
-            "required": true,
+            "in": "query",
             "schema": {
               "type": "string"
             }

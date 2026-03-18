@@ -141,20 +141,20 @@
   {
     "ContainingType": "RestApiMysqlSdk9.Controllers.EntUsersController",
     "Method": "GetEntUser",
-    "RelativePath": "api/EntUsers/{user},{passe}",
-    "HttpMethod": "GET",
+    "RelativePath": "api/EntUsers/GetEntUser",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "user",
         "Type": "System.String",
-        "IsRequired": true
+        "IsRequired": false
       },
       {
         "Name": "passe",
         "Type": "System.String",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [

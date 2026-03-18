@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\ProjetFlutter\\backend api asp mysql 2026\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\controllers\\entuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:controllers\\entuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\controllers\\entuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|solutionrelative:controllers\\entuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3717DD5A-142E-4220-BABE-5754027E7480}|RestApiMysqlSdk9.csproj|g:\\projetflutter\\backend api asp mysql 2026\\controllers\\contratscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,8 +98,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAABEAAAAAAAAAAADwvyQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-26T10:32:41.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T10:32:41.166Z"
             },
             {
               "$type": "Document",
@@ -111,12 +110,11 @@
               "RelativeToolTip": "Data\\AppDbContext2.cs",
               "ViewState": "AgIAAHECAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T07:53:41.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T07:53:41.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -124,12 +122,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T10:32:41.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T10:32:41.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -150,25 +147,24 @@
               "RelativeToolTip": "Controllers\\ContratsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T10:56:52.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T10:56:52.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EntUsersController.cs",
               "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026\\Controllers\\EntUsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\EntUsersController.cs",
               "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026\\Controllers\\EntUsersController.cs",
               "RelativeToolTip": "Controllers\\EntUsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T10:32:41.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PhotosController.cs",
               "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026\\Controllers\\PhotosController.cs",
               "RelativeDocumentMoniker": "Controllers\\PhotosController.cs",
@@ -176,12 +172,11 @@
               "RelativeToolTip": "Controllers\\PhotosController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T10:32:41.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T10:32:41.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -189,8 +184,7 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAswBIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T10:32:41.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T10:32:41.168Z"
             },
             {
               "$type": "Document",
