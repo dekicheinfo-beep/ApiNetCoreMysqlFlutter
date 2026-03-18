@@ -17,18 +17,25 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-builder.Services.AddDbContext<AppDbContext1>(options =>
+builder.Services.AddDbContext<AppDbContext>(options =>
 {
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
     options.UseMySql(
         connectionString,
-        ServerVersion.AutoDetect(connectionString),
+        new MySqlServerVersion(new Version(8, 0, 34)),
         mySqlOptions =>
         {
-            mySqlOptions.EnableRetryOnFailure(0);
+            mySqlOptions.EnableRetryOnFailure(
+                maxRetryCount: 5,
+                maxRetryDelay: TimeSpan.FromSeconds(5),
+                errorNumbersToAdd: null
+            );
         }
     );
+
+    options.EnableSensitiveDataLogging();
+    options.EnableDetailedErrors();
 });
 
 
@@ -39,31 +46,7 @@ builder.Services.AddControllers();
 //        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")))
 //);
 
-//builder.Services.AddDbContext<AppDbContext>(options =>
-//    options.UseMySql(
-//        builder.Configuration.GetConnectionString("DefaultConnection"),
-//        new MySqlServerVersion(new Version(8, 0, 21)),
-//        mySqlOptions => mySqlOptions.EnableRetryOnFailure()
-//    ));
 
-//builder.Services.AddDbContext<AppDbContext>(options =>
-//    options.UseMySql(
-//        builder.Configuration.GetConnectionString("DefaultConnection"),
-//        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")),
-//        mySqlOptions => mySqlOptions.EnableRetryOnFailure()
-//    )
-//);
-
-//var connectionString = "Server=metro.proxy.rlwy.net;Port=39390;Database=railway;Uid=root;Pwd=HtNaPJHWGYDxjJPbBxVYMbPELReecJbr;SslMode=None;";
-
-//builder.Services.AddDbContext<AppDbContext>(options =>
-//    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString),
-//        mySqlOptions => mySqlOptions.EnableRetryOnFailure(
-//            maxRetryCount: 5,
-//            maxRetryDelay: TimeSpan.FromSeconds(10),
-//            errorNumbersToAdd: null)
-//    )
-//);
 
 
 builder.Services.AddCors(options =>
