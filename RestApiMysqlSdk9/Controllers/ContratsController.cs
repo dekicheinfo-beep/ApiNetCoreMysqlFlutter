@@ -70,5 +70,77 @@ namespace RestApiMysqlSdk9.Controllers
 
             return Ok(contrats);
         }
+
+        // 🔥 GET: api/contrats/count
+        [HttpGet("countTableau")]
+        public async Task<ActionResult<IEnumerable<ContratCountDto>>> GetContratCounts()
+        {
+            var result = await _context.EntContrats
+                .GroupBy(c => new { c.Clientid, c.Typecontrat })
+                .Select(g => new ContratCountDto
+                {
+                    ClientId = g.Key.Clientid,
+                    Typecontrat = g.Key.Typecontrat,
+                    Nombre = g.Count()
+                })
+                .ToListAsync();
+
+            return Ok(result);
+        }
+
+
+        //[HttpGet("count/{clientId}/{type}")]
+        //public async Task<ActionResult<int>> GetCount(int clientId, string type)
+        //{
+        //    var count = await _context.EntContrats
+        //        .Where(c => c.Clientid == clientId && c.Typecontrat == type)
+        //        .CountAsync();
+
+        //    return Ok(count);
+        //}
+
+        [HttpGet("count")]
+        public async Task<ActionResult<int>> GetCount(int clientId, string? type)
+        {
+            var query = _context.EntContrats.Where(c => c.Clientid == clientId);
+
+            if (!string.IsNullOrEmpty(type))
+            {
+                query = query.Where(c => c.Typecontrat == type);
+            }
+
+            var count = await query.CountAsync();
+
+            return Ok(count);
+        }
+
+        [HttpGet("counts/{clientId}")]
+        public async Task<ActionResult<object>> GetCountsByClient(int clientId)
+        {
+            var result = await _context.EntContrats
+                .Where(c => c.Clientid == clientId)
+                .GroupBy(c => c.Typecontrat)
+                .Select(g => new
+                {
+                    type = g.Key,
+                    count = g.Count()
+                })
+                .ToListAsync();
+
+            return Ok(result);
+        }
+
+        [HttpGet("list")]
+        public async Task<ActionResult<IEnumerable<EntContrat>>> GetList(int clientId, string? type)
+        {
+            var query = _context.EntContrats.Where(c => c.Clientid == clientId);
+
+            if (!string.IsNullOrEmpty(type))
+            {
+                query = query.Where(c => c.Typecontrat == type);
+            }
+
+            return Ok(await query.ToListAsync());
+        }
     }
 }
