@@ -11,6 +11,10 @@ public partial class EntUser
     public string Password { get; set; } = null!;
 
     public string Profile { get; set; } = null!;
+    public string Email { get; set; } = null!;
 
     public string Etat { get; set; } = null!;
+
+    public string? ResetToken { get; set; }
+    public DateTime? ResetTokenExpiry { get; set; }
 }

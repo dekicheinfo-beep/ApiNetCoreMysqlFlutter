@@ -1,13 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RestApiMysqlSdk9.Data;
 using RestApiMysqlSdk9.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Net.Mail;
+using System.Threading.Tasks;
 
 namespace RestApiMysqlSdk9.Controllers
 {
@@ -123,32 +125,106 @@ namespace RestApiMysqlSdk9.Controllers
             return _context.EntUsers.Any(e => e.User == id);
         }
 
-        //("login/{user}/{password}")]
-
-        //[HttpPost("login")]
-        //public async Task<IActionResult> Login([FromRoute] string User, [FromRoute] string Password)
+        //[HttpPost("login")]  //production
+        //public async Task<IActionResult> Login([FromBody] EntUser User)
         //{
         //    var user = await _context.EntUsers
-        //        .FirstOrDefaultAsync(x => x.User == User);
+        //        .FirstOrDefaultAsync(x => x.User == User.User && x.Password==User.Password);
 
-        //    if (user == null || user.Password != Password)
+        //    if (user == null || user.Password != user.Password)
         //        return Unauthorized();
 
         //    // Normally return JWT token
         //    return Ok(new { token = "dummy-jwt-token-example" });
         //}
 
-        [HttpPost("login")]
+        [HttpPost("login")] // developpement
         public async Task<IActionResult> Login([FromBody] EntUser User)
         {
             var user = await _context.EntUsers
-                .FirstOrDefaultAsync(x => x.User == User.User && x.Password==User.Password);
+                .FirstOrDefaultAsync(x => x.User == User.User);
 
-            if (user == null || user.Password != user.Password)
-                return Unauthorized();
+            if (user == null)
+                return Unauthorized(new { message = "Utilisateur introuvable" });
 
-            // Normally return JWT token
-            return Ok(new { token = "dummy-jwt-token-example" });
+            if (user.Password != User.Password)
+                return Unauthorized(new { message = "Mot de passe incorrect" });
+
+            return Ok(new
+            {
+                token = "dummy-jwt-token-example",
+                message = "Connexion réussie"
+            });
+        }
+
+        [HttpPost("forgot-password")]
+        public async Task<IActionResult> ForgotPassword(string username)
+        {
+            var user = await _context.EntUsers
+                .FirstOrDefaultAsync(u => u.User == username);
+
+            if (user == null)
+                return NotFound("Utilisateur introuvable");
+
+            // 🔐 Générer un token
+            var token = Guid.NewGuid().ToString();
+
+            // 👉 Stocker le token (ajoute ces champs dans ta table si besoin)
+            user.ResetToken = token;
+            user.ResetTokenExpiry = DateTime.UtcNow.AddMinutes(30);
+
+            await _context.SaveChangesAsync();
+
+            // 📧 Envoyer email
+            var resetLink = $"https://ton-site.com/reset-password?token={token}";
+
+            await SendEmail(user.Email, resetLink);
+
+            return Ok("Email envoyé");
+        }
+
+    
+
+        private async Task SendEmail(string toEmail, string resetLink)
+        {
+            using (var smtpClient = new SmtpClient("smtp.gmail.com"))
+            {
+                smtpClient.Port = 587;
+                smtpClient.Credentials = new NetworkCredential(
+                    "dekiche.info@gmail.com",
+                    "fbkd zwis zhnn hbew"
+                );
+                smtpClient.EnableSsl = true;
+
+                var mail = new MailMessage
+                {
+                    From = new MailAddress("dekiche.info@gmail.com"),
+                    Subject = "changement de mot de passe",
+                    Body = $"Cliquez ici pour réinitialiser : {resetLink}",
+                    IsBodyHtml = false,
+                };
+
+                mail.To.Add(toEmail);
+
+                await smtpClient.SendMailAsync(mail);
+            }
+        }
+
+        [HttpPost("reset-password")]
+        public async Task<IActionResult> ResetPassword(string token, string newPassword)
+        {
+            var user = await _context.EntUsers
+                .FirstOrDefaultAsync(u => u.ResetToken == token);
+
+            if (user == null || user.ResetTokenExpiry < DateTime.UtcNow)
+                return BadRequest("Token invalide ou expiré");
+
+            user.Password = newPassword; // ⚠️ à hasher en prod !
+            user.ResetToken = null;
+
+            await _context.SaveChangesAsync();
+
+            return Ok("Mot de passe modifié");
         }
 
 

@@ -477,6 +477,55 @@
         }
       }
     },
+    "/api/EntUsers/forgot-password": {
+      "post": {
+        "tags": [
+          "EntUsers"
+        ],
+        "parameters": [
+          {
+            "name": "username",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/EntUsers/reset-password": {
+      "post": {
+        "tags": [
+          "EntUsers"
+        ],
+        "parameters": [
+          {
+            "name": "token",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "newPassword",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Photos/{id}": {
       "get": {
         "tags": [
@@ -1258,8 +1307,21 @@
             "type": "string",
             "nullable": true
           },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
           "etat": {
             "type": "string",
+            "nullable": true
+          },
+          "resetToken": {
+            "type": "string",
+            "nullable": true
+          },
+          "resetTokenExpiry": {
+            "type": "string",
+            "format": "date-time",
             "nullable": true
           }
         },

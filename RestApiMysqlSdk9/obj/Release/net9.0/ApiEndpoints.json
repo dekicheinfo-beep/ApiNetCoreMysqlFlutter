@@ -238,6 +238,22 @@
   },
   {
     "ContainingType": "RestApiMysqlSdk9.Controllers.EntUsersController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/EntUsers/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestApiMysqlSdk9.Controllers.EntUsersController",
     "Method": "GetEntUser",
     "RelativePath": "api/EntUsers/GetEntUser",
     "HttpMethod": "POST",
@@ -279,6 +295,27 @@
         "Name": "User",
         "Type": "RestApiMysqlSdk9.Models.EntUser",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestApiMysqlSdk9.Controllers.EntUsersController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/EntUsers/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newPassword",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
