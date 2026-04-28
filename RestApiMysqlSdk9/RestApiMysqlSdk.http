@@ -1,0 +1,6 @@
+@RestApiMysqlSdk_HostAddress = http://localhost:5271
+
+GET {{RestApiMysqlSdk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

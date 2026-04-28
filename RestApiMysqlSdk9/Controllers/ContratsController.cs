@@ -1,125 +1,157 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MySqlConnector;
-using RestApiMysqlSdk9.Data;
-using RestApiMysqlSdk9.Models;
+using RestApiMysqlSdk.Data;
+using RestApiMysqlSdk.Models;
 
-namespace RestApiMysqlSdk9.Controllers
+namespace RestApiMysqlSdk.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class ContratsController : ControllerBase
     {
-        private readonly AppDbContext _context;
+        private readonly DbAssuranceContext _context;
 
-        private readonly IConfiguration _config;
-
-        public ContratsController(AppDbContext context, IConfiguration config)
+        public ContratsController(DbAssuranceContext context)
         {
             _context = context;
-            _config = config;
         }
 
-        [HttpGet("connect")]
-        public async Task<IActionResult> TestConnection()
-        {
-            var connStr = _config.GetConnectionString("DefaultConnection");
-
-            try
-            {
-                await using var conn = new MySqlConnection(connStr);
-                await conn.OpenAsync();
-                return Ok("✅ Connexion réussie !");
-            }
-            catch (Exception ex)
-            {
-                return BadRequest($"❌ Connexion échouée : {ex.Message}");
-            }
-        }
-
-        [HttpGet("testdb")]
-        public async Task<IActionResult> TestDb()
-        {
-            try
-            {
-                var count = await _context.EntContrats.CountAsync();
-                return Ok(count);
-            }
-            catch (Exception ex)
-            {
-                return Ok(ex.Message);
-            }
-        }
-
-        
-
-        // GET: api/Photos
+        // GET: api/Contrats
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<EntContrat>>> GetContrats()
+        public async Task<ActionResult<IEnumerable<Contrat>>> GetContrats()
         {
-            return await _context.EntContrats.ToListAsync();
+            return await _context.Contrats.ToListAsync();
         }
 
-        [HttpGet("{clientId}")]
-        public IActionResult GetContrats(int clientId)
-        {
-            var contrats = _context.EntContrats
-                .Where(c => c.Clientid == clientId)
-                .ToList();
-
-            return Ok(contrats);
-        }
-
-        // 🔥 GET: api/contrats/count
-        [HttpGet("countTableau")]
-        public async Task<ActionResult<IEnumerable<ContratCountDto>>> GetContratCounts()
-        {
-            var result = await _context.EntContrats
-                .GroupBy(c => new { c.Clientid, c.Typecontrat })
-                .Select(g => new ContratCountDto
-                {
-                    ClientId = g.Key.Clientid,
-                    Typecontrat = g.Key.Typecontrat,
-                    Nombre = g.Count()
-                })
-                .ToListAsync();
-
-            return Ok(result);
-        }
-
-
-        //[HttpGet("count/{clientId}/{type}")]
-        //public async Task<ActionResult<int>> GetCount(int clientId, string type)
+        //// GET: api/Contrats/5
+        //[HttpGet("{id}")]
+        //public async Task<ActionResult<Contrat>> Get(string numepoli, string coderisq)
         //{
-        //    var count = await _context.EntContrats
-        //        .Where(c => c.Clientid == clientId && c.Typecontrat == type)
-        //        .CountAsync();
+        //    var contrat = await _context.Contrats.FindAsync(id);
 
-        //    return Ok(count);
+        //    if (contrat == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    return contrat;
         //}
 
-        [HttpGet("count")]
-        public async Task<ActionResult<int>> GetCount(int clientId, string? type)
+        [HttpGet("{numepoli}/{coderisq}")]
+        public async Task<ActionResult<Contrat>> Get(string numepoli, string coderisq)
         {
-            var query = _context.EntContrats.Where(c => c.Clientid == clientId);
+            var contrat = await _context.Contrats
+                .FirstOrDefaultAsync(c => c.Numepoli == numepoli && c.Coderisq == coderisq);
+
+            if (contrat == null)
+            {
+                return NotFound();
+            }
+
+            return contrat;
+        }
+
+        [HttpGet("list")]
+        public async Task<ActionResult<IEnumerable<Contrat>>> GetList(string codeassu, string? type)
+        {
+            var query = _context.Contrats.Where(c => c.Codeassu == codeassu);
 
             if (!string.IsNullOrEmpty(type))
             {
-                query = query.Where(c => c.Typecontrat == type);
+                query = query.Where(c => c.Liberisq == type);
             }
 
-            var count = await query.CountAsync();
-
-            return Ok(count);
+            return Ok(await query.ToListAsync());
         }
 
-        [HttpGet("counts/{clientId}")]
-        public async Task<ActionResult<object>> GetCountsByClient(int clientId)
+        // PUT: api/Contrats/5
+        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutContrat(string id, Contrat contrat)
         {
-            var result = await _context.EntContrats
-                .Where(c => c.Clientid == clientId)
-                .GroupBy(c => c.Typecontrat)
+            if (id != contrat.Codagence)
+            {
+                return BadRequest();
+            }
+
+            _context.Entry(contrat).State = EntityState.Modified;
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!ContratExists(id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+
+            return NoContent();
+        }
+
+        // POST: api/Contrats
+        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        [HttpPost]
+        public async Task<ActionResult<Contrat>> PostContrat(Contrat contrat)
+        {
+            _context.Contrats.Add(contrat);
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateException)
+            {
+                if (ContratExists(contrat.Codagence))
+                {
+                    return Conflict();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+
+            return CreatedAtAction("GetContrat", new { id = contrat.Codagence }, contrat);
+        }
+
+        // DELETE: api/Contrats/5
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteContrat(string id)
+        {
+            var contrat = await _context.Contrats.FindAsync(id);
+            if (contrat == null)
+            {
+                return NotFound();
+            }
+
+            _context.Contrats.Remove(contrat);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+        private bool ContratExists(string id)
+        {
+            return _context.Contrats.Any(e => e.Codagence == id);
+        }
+
+        [HttpGet("counts/{codeassu}")]
+        public async Task<ActionResult<object>> GetCountsByAssure(string codeassu)
+        {
+            var result = await _context.Contrats
+                .Where(c => c.Codeassu == codeassu)
+                .GroupBy(c => c.Liberisq)
                 .Select(g => new
                 {
                     type = g.Key,
@@ -130,17 +162,19 @@ namespace RestApiMysqlSdk9.Controllers
             return Ok(result);
         }
 
-        [HttpGet("list")]
-        public async Task<ActionResult<IEnumerable<EntContrat>>> GetList(int clientId, string? type)
-        {
-            var query = _context.EntContrats.Where(c => c.Clientid == clientId);
+        //[HttpGet("list")]
+        //public async Task<ActionResult<IEnumerable<Contrat>>> GetList(string codeassu, string? type)
+        //{
+        //    var query = _context.Contrats.Where(c => c.Codeassu == codeassu);
 
-            if (!string.IsNullOrEmpty(type))
-            {
-                query = query.Where(c => c.Typecontrat == type);
-            }
+        //    if (!string.IsNullOrEmpty(type))
+        //    {
+        //        query = query.Where(c => c.Liberisq == type);
+        //    }
 
-            return Ok(await query.ToListAsync());
-        }
+        //    return Ok(await query.ToListAsync());
+        //}
+
+
     }
 }

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace RestApiMysqlSdk9.Controllers
+namespace RestApiMysqlSdk.Controllers
 {
     [ApiController]
     [Route("[controller]")]

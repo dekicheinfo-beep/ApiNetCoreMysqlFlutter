@@ -1,12 +1,14 @@
-ï»¿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using RestApiMysqlSdk9.Data;
+using RestApiMysqlSdk.Data;
+using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddAuthorization();
 // Ajouter Swagger
 builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
@@ -19,37 +21,35 @@ builder.Services.AddSwaggerGen(c =>
 
 builder.Services.AddControllers();
 
-builder.Services.AddDbContext<AppDbContext>(options =>
-{
-    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+//builder.Services.AddDbContext<DbAssuranceContext>(options =>
+//{
+//    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-    options.UseMySql(
-        connectionString,
-        new MySqlServerVersion(new Version(8, 0, 34)),
-        mySqlOptions =>
-        {
-            mySqlOptions.EnableRetryOnFailure(
-                maxRetryCount: 5,
-                maxRetryDelay: TimeSpan.FromSeconds(5),
-                errorNumbersToAdd: null
-            );
-        }
-    );
+//    options.UseMySql(
+//        connectionString,
+//        new MySqlServerVersion(new Version(8, 0, 34)),
+//        mySqlOptions =>
+//        {
+//            mySqlOptions.EnableRetryOnFailure(
+//                maxRetryCount: 5,
+//                maxRetryDelay: TimeSpan.FromSeconds(5),
+//                errorNumbersToAdd: null
+//            );
+//        }
+//    );
 
-    options.EnableSensitiveDataLogging();
-    options.EnableDetailedErrors();
-});
+//    options.EnableSensitiveDataLogging();
+//    options.EnableDetailedErrors();
+//});
 
-
-
-
-
-//builder.Services.AddDbContext<AppDbContext>(options =>
+//builder.Services.AddDbContext<DbAssuranceContext>(options =>
 //    options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
 //        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection")))
 //);
 
 
+builder.Services.AddDbContext<DbAssuranceContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
 builder.Services.AddCors(options =>
@@ -65,17 +65,17 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 
 // Swagger
-app.UseSwagger(); // GÃ©nÃ¨re swagger.json
+app.UseSwagger(); // Génère swagger.json
 app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "API Education v1");
-    c.RoutePrefix = string.Empty; // Swagger Ã  la racine : http://localhost:5000/
+    c.RoutePrefix = string.Empty; // Swagger à la racine : http://localhost:5000/
 });
 
 // CORS
 app.UseCors("AllowSpecificOrigins");
 
-app.UseDeveloperExceptionPage(); 
+app.UseDeveloperExceptionPage();
 
 // HTTPS
 app.UseHttpsRedirection();

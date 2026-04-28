@@ -1,4 +1,4 @@
-namespace RestApiMysqlSdk9
+namespace RestApiMysqlSdk
 {
     public class WeatherForecast
     {

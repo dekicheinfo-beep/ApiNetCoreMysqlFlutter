@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\controllers\\assurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:controllers\\assurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\data\\dbassurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:data\\dbassurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amine.dekiche\\.nuget\\packages\\linq2db.postgresql\\6.2.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\controllers\\contratscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:controllers\\contratscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\models\\contrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:models\\contrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\models\\assure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:models\\assure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\controllers\\sinistrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:controllers\\sinistrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\controllers\\garantiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:controllers\\garantiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\controllers\\policecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:controllers\\policecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\controllers\\risquescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:controllers\\risquescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\models\\sinistre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:models\\sinistre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\data\\dbassurancecontext0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:data\\dbassurancecontext0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\data\\dbassurancecontext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:data\\dbassurancecontext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\modelsbase2\\dbassurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:modelsbase2\\dbassurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\restapimysqlsdk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:restapimysqlsdk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\models\\garantie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:models\\garantie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\models\\risque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:models\\risque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\models\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:models\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\modelsbase\\dbassurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:modelsbase\\dbassurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|g:\\projetflutter\\backend api asp mysql 2026 saa postgresql\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C5C92E-F04C-FEAA-0641-EA70F9AB24FB}|RestApiMysqlSdk.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.103\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\amine.dekiche\\.nuget\\packages\\linq2db.postgresql\\6.2.1\\readme.txt",
+              "ToolTip": "C:\\Users\\amine.dekiche\\.nuget\\packages\\linq2db.postgresql\\6.2.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-27T10:04:34.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SinistresController.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\SinistresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SinistresController.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\SinistresController.cs",
+              "RelativeToolTip": "Controllers\\SinistresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T15:09:02.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbAssuranceContext.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Data\\DbAssuranceContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbAssuranceContext.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Data\\DbAssuranceContext.cs",
+              "RelativeToolTip": "Data\\DbAssuranceContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T15:06:55.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sinistre.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Sinistre.cs",
+              "RelativeDocumentMoniker": "Models\\Sinistre.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Sinistre.cs",
+              "RelativeToolTip": "Models\\Sinistre.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T15:06:42.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbAssuranceContext.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\ModelsBase2\\DbAssuranceContext.cs",
+              "RelativeDocumentMoniker": "ModelsBase2\\DbAssuranceContext.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\ModelsBase2\\DbAssuranceContext.cs",
+              "RelativeToolTip": "ModelsBase2\\DbAssuranceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T15:05:30.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContratsController.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\ContratsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContratsController.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\ContratsController.cs",
+              "RelativeToolTip": "Controllers\\ContratsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:46:34.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbAssuranceContext1.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Data\\DbAssuranceContext1.cs",
+              "RelativeDocumentMoniker": "Data\\DbAssuranceContext1.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Data\\DbAssuranceContext1.cs",
+              "RelativeToolTip": "Data\\DbAssuranceContext1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:43:49.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contrat.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Contrat.cs",
+              "RelativeDocumentMoniker": "Models\\Contrat.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Contrat.cs",
+              "RelativeToolTip": "Models\\Contrat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:43:39.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T14:08:57.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RisquesController.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\RisquesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RisquesController.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\RisquesController.cs",
+              "RelativeToolTip": "Controllers\\RisquesController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:35:02.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PoliceController.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\PoliceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PoliceController.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\PoliceController.cs",
+              "RelativeToolTip": "Controllers\\PoliceController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAIBJwD8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:34:32.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GarantiesController.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\GarantiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GarantiesController.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\GarantiesController.cs",
+              "RelativeToolTip": "Controllers\\GarantiesController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:33:57.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssuresController.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\AssuresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssuresController.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Controllers\\AssuresController.cs",
+              "RelativeToolTip": "Controllers\\AssuresController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:33:07.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-31T13:24:12.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RestApiMysqlSdk.csproj",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\RestApiMysqlSdk.csproj",
+              "RelativeDocumentMoniker": "RestApiMysqlSdk.csproj",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\RestApiMysqlSdk.csproj",
+              "RelativeToolTip": "RestApiMysqlSdk.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T13:24:01.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:38:57.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T10:37:04.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbAssuranceContext0.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Data\\DbAssuranceContext0.cs",
+              "RelativeDocumentMoniker": "Data\\DbAssuranceContext0.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Data\\DbAssuranceContext0.cs",
+              "RelativeToolTip": "Data\\DbAssuranceContext0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:35:47.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Risque.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Risque.cs",
+              "RelativeDocumentMoniker": "Models\\Risque.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Risque.cs",
+              "RelativeToolTip": "Models\\Risque.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAABQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:35:39.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Police.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Police.cs",
+              "RelativeDocumentMoniker": "Models\\Police.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Police.cs",
+              "RelativeToolTip": "Models\\Police.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAEBTwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:35:32.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Garantie.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Garantie.cs",
+              "RelativeDocumentMoniker": "Models\\Garantie.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Garantie.cs",
+              "RelativeToolTip": "Models\\Garantie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:35:27.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assure.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Assure.cs",
+              "RelativeDocumentMoniker": "Models\\Assure.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\Models\\Assure.cs",
+              "RelativeToolTip": "Models\\Assure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:35:03.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DbAssuranceContext.cs",
+              "DocumentMoniker": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\ModelsBase\\DbAssuranceContext.cs",
+              "RelativeDocumentMoniker": "ModelsBase\\DbAssuranceContext.cs",
+              "ToolTip": "G:\\ProjetFlutter\\backend api asp mysql 2026 saa postgresql\\ModelsBase\\DbAssuranceContext.cs",
+              "RelativeToolTip": "ModelsBase\\DbAssuranceContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:33:20.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
