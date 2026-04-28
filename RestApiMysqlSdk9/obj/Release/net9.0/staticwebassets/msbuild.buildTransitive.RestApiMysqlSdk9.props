@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\RestApiMysqlSdk9.props" />
-</Project>
